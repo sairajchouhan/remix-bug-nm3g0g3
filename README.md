@@ -1,3 +1,6 @@
-# node-mafu1i
+The problem is when I
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-mafu1i)
+- Navigate to `/cart` page
+- Click the submit button
+
+The data that has to come from the loader `routes/cart/index.tsx` is `undefined` when I do a mutation on `routes/cart.tsx` page.
